@@ -15,7 +15,7 @@ requests : <b>pip install requests</b>
 
 - :zap: In my free time exploring the Iot Cloud Integration
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raj-beladiya/)
+- :mailbox:How to reach me: https://www.linkedin.com/in/raj-beladiya/
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40"        height="40"/>&nbsp;
